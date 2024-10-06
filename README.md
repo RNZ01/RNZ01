@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Sofatutor
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **kubernetes**
 
 - 👨‍💻 My website [https://rami.alzayat.de](https://rami.alzayat.de)
 
