@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 My website [https://www.rami.alzayat.de](https://www.rami.alzayat.de)
+- 👨‍💻 My website [https://rami.alzayat.de](https://rami.alzayat.de)
 
 - 💬 Ask me about **React, RN, JS, CSS, HTML, Linux, Docker, PI's**
 
