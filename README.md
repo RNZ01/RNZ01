@@ -1,63 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
 
-- 🔭 I’m currently working with Sofatutor
-
-- 🌱 I’m currently learning **kubernetes**
-
-- 👨‍💻 My website [https://rami.alzayat.de](https://rami.alzayat.de)
-
-- 💬 Ask me about **React, RN, JS, CSS, HTML, Linux, Docker, PI's**
-
-- 📫 How to reach me **ramy.za.rr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rami-al-zayat-373a7086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rami-al-zayat-373a7086" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6709790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6709790" height="30" width="40" /></a>
-</p>
-
-<br>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramialzayat&label=Profile%20views&color=0e75b6&style=flat" alt="ramialzayat" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RNZ01&theme=onedark)](https://github.com/RNZ01/github-profile-trophy)
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-
-<br/>
-
-<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="170" alt="Rami's Dev Card"/>
-
-<br/>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ramyzarrU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ramyzarrU" /></a></p>
-
-<br/>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RNZ01&theme=github-dark)](https://git.io/streak-stats)
-
-
-
-
-
-
----------
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Rami</h1>
-<h3 align="center">A passionate frontend developer from Berlin</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramialzayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -98,13 +41,13 @@
 
 ---
 
+<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="170" alt="Rami's Dev Card"/>
+
+---
+
 ### 💳 Support Me
 <p>
   <a href="https://www.buymeacoffee.com/ramyzarrU">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
-
-<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="170" alt="Rami's Dev Card"/>
