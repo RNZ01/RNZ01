@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RNZ01/RNZ01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RNZ01/RNZ01/output/snake.svg" alt="Snake animation con" />
 
 ---
 
