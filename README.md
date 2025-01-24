@@ -47,7 +47,9 @@
 ### 📈 GitHub Stats
 <img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&theme=github-dark" alt="GitHub Streak" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnz01&show_icons=true&locale=en&layout=compact" alt="rnz01" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNZ01&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=aura_dark&hide_border=true" height="160" alt="languages graph"  />
+</div>
 
 ---
 
