@@ -36,6 +36,8 @@
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=RNZ01&theme=onedark)](https://github.com/RNZ01/github-profile-trophy)
 
+---
+
 ### 📈 GitHub Stats
 <img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&theme=github-dark" alt="GitHub Streak" />
 
@@ -44,7 +46,7 @@
 ---
 
 ### 💳 Support Me
-<p>
+<p  align="left">
   <a href="https://www.buymeacoffee.com/ramyzarrU">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
