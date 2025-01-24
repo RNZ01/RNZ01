@@ -42,4 +42,4 @@
 <br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RNZ01)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RNZ01&theme=github-dark)](https://git.io/streak-stats)
