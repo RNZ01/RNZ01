@@ -41,7 +41,7 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RNZ01&theme=github-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&theme=github-dark" alt="GitHub Streak" /></a>
 
 ---
 
