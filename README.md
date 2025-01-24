@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramialzayat&label=Profile%20views&color=0e75b6&style=flat" alt="ramialzayat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramialzayat" alt="ramialzayat" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RNZ01&theme=onedark)](https://github.com/RNZ01/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
