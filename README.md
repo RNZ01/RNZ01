@@ -5,6 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=ramialzayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 ---
 
 ### 🌟 About Me
