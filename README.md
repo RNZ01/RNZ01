@@ -41,10 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnz01&show_icons=true&locale=en&layout=compact" alt="rnz01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnz01&show_icons=true&locale=en" alt="rnz01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnz01&" alt="rnz01" /></p>
-
 ---
 
 ### 💳 Support Me
