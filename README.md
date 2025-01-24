@@ -41,7 +41,7 @@
 
 ---
 
-<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="170" alt="Rami's Dev Card"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RNZ01&theme=github-dark" alt="GitHub Streak" /></a>
 
 ---
 
