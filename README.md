@@ -40,7 +40,10 @@
 ---
 
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=RNZ01&theme=onedark)](https://github.com/RNZ01/github-profile-trophy)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RNZ01&theme=aura_dark" height="150" alt="trophy" />
+</div>
 
 ---
 
@@ -48,10 +51,6 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=RNZ01&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
