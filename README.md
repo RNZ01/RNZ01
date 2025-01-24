@@ -37,11 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RNZ01&theme=onedark)](https://github.com/RNZ01/github-profile-trophy)
 
 ### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=RNZ01&theme=github-dark)](https://git.io/streak-stats)
-
----
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&theme=github-dark" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com/demo/preview.php?user=RNZ01&theme=github-dark" alt="GitHub Streak" />
 
 ---
 
