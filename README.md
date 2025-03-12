@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ramialzayat&color=brightgreen" alt="watching_count" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ramialzayat)
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ramialzayat&repo=ramialzayat&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ramialzayat&countColorcountColor&countColor=%237B1E7B"/>
 
 
  <details open>
