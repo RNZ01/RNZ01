@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=إِنَّ%20اللَّهَ%20يُحِبُّ%20إِذَا%20عَمِلَ%20أَحَدُكُمْ%20عَمَلًا%20أَنْ%20يُتْقِنَهُ&author=النَّبِيُّ%20مُحَمَّدٌ%20عَلَيْهِ%20الصَّلَاةُ%20وَالسَّلَامُ" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=إِنَّ%20اللَّهَ%20يُحِبُّ%20إِذَا%20عَمِلَ%20أَحَدُكُمْ%20عَمَلًا%20أَنْ%20يُتْقِنَهُ&author=النَّبِيُّ%20مُحَمَّدٌ%20عَلَيْهِ%20الصَّلَاةُ%20وَالسَّلَامُ" />
 </div>
 <!--# <div align="center">![Welcome Banner]()</div>-->
 <div align="center">
