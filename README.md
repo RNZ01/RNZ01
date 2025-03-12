@@ -1,3 +1,18 @@
+<div>
+  <svg width="600" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <rect width="600" height="150" rx="10" ry="10" fill="#0d1117" />
+  
+  <text x="300" y="65" font-family="'Inter', sans-serif" font-size="20" fill="#e6edf3" text-anchor="middle" >Code is like humor. When you have to explain it, it&apos;s bad.</text>
+  <text x="300" y="95" font-family="'Inter', sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" >— RNZ</text>
+  
+        <g  transform="translate(560, 110) scale(0.8)">
+          <path d="M20 3H4v10c0 2.21 1.79 4 4 4h6c2.21 0 4-1.79 4-4v-3h2c1.11 0 2-.89 2-2V5c0-1.11-.89-2-2-2zm0 5h-2V5h2v3z" fill="currentColor"/>
+        </g>
+      
+</svg>
+</div>
+
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=إِنَّ%20اللَّهَ%20يُحِبُّ%20إِذَا%20عَمِلَ%20أَحَدُكُمْ%20عَمَلًا%20أَنْ%20يُتْقِنَهُ&author=النَّبِيُّ%20مُحَمَّدٌ%20عَلَيْهِ%20الصَّلَاةُ%20وَالسَّلَامُ" />
 </div>
