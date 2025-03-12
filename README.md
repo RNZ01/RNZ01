@@ -1,4 +1,5 @@
 <!--# <div align="center">![Welcome Banner]()</div>-->
+<div align="center">
   <h6>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -6,7 +7,8 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     </picture>
   </h6>
-
+  </div>
+  
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2000&color=510085&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rami;Welcome+to+my+GitHub+Profile!;Senior+Software+Developer;Full-Stack+%26+DevOps+Engineer;Game+Developer" alt="Typing SVG" />
