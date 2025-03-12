@@ -1,4 +1,4 @@
-![Talk is cheap. Show me the code.](https://svg-sparkler-fuy38c3k0-rnz01s-projects.vercel.app/svg?text=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds&width=600&height=150&theme=default)
+![Talk is cheap. Show me the code.](https://e2378fdc-43dd-4970-851d-1eadd1e902bf.lovableproject.com/svg?text=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds&width=600&height=150&theme=default)
 
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote=إِنَّ%20اللَّهَ%20يُحِبُّ%20إِذَا%20عَمِلَ%20أَحَدُكُمْ%20عَمَلًا%20أَنْ%20يُتْقِنَهُ&author=النَّبِيُّ%20مُحَمَّدٌ%20عَلَيْهِ%20الصَّلَاةُ%20وَالسَّلَامُ" />
