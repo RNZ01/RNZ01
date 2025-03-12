@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quote&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--# <div align="center">![Welcome Banner]()</div>-->
 <div align="center">
 
