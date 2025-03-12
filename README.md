@@ -5,8 +5,6 @@
 <!--# <div align="center">![Welcome Banner]()</div>-->
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=jolly&animation=default&layout=zues&font=PixelifySans&quoteType=random&bgColor=plum&fontColor=green)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rami;%F0%9F%8C%B9+Welcome+to+my+GitHub+Profile!;%3CSenior+Software+Developer%2F%3E;%3CFull-Stack+%26+DevOps+Engineer%2F%3E;%3CGame+Developer%2F%3E" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=ramialzayat&color=brightgreen" alt="watching_count" />
