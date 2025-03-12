@@ -11,8 +11,7 @@
   
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rami;%F0%9F%8C%B9+Welcome+to+my+GitHub+Profile!;%3CSenior+Software+Developer%2F%3E;%3CFull-Stack+%26+DevOps+Engineer%2F%3E;%3CGame+Developer%2F%3E" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rami;%F0%9F%8C%B9+Welcome+to+my+GitHub+Profile!;%3CSenior+Software+Developer%2F%3E;%3CFull-Stack+%26+DevOps+Engineer%2F%3E;%3CGame+Developer%2F%3E" alt="Typing SVG" /></a>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=RNZ01&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RNZ01)
 
