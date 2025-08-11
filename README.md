@@ -13,7 +13,6 @@
     <summary><h2>👨‍💻 About Me</h2></summary>
 
 <p>
-🔭 I’m currently working with <b>Sofatutor</b> <br>
 🌱 I’m currently learning <b>Lua, Kubernetes</b> <br>
 💬 Ask me about <b>React, React Native, JavaScript, CSS, HTML, Linux, Docker, Raspberry Pi</b>
 </p>
