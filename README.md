@@ -197,7 +197,7 @@
 
   ### 📬 Professional Contact
   > For inquiries and collaborations:
-  > 📧 [ramy.za.rr@gmail.com](mailto:ramy.za.rr@gmail.com)
+  > 📧 [contact](mailto:contact@alzayat.xyz)
 
 
   <!--### 🤝 Community-->
