@@ -8,7 +8,7 @@
 
 I build web, mobile, and backend software with a focus on practical architecture, Linux-based systems, containers.
 
-[![Website](https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rami.alzayat.xyz)
+[![Website](https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rnz.alzayat.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-al-zayat-373a7086)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6709790)
 [![Email](https://img.shields.io/badge/Email-contact%40alzayat.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alzayat.xyz)
