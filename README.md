@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · DevOps Engineer · Software Developer
 
-I build web, mobile, and backend software with a focus on practical architecture, Linux-based systems, containers, and clean delivery.
+I build web, mobile, and backend software with a focus on practical architecture, Linux-based systems, containers.
 
 [![Website](https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rami.alzayat.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-al-zayat-373a7086)
