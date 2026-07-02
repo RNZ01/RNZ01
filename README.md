@@ -66,40 +66,6 @@ I build web, mobile, and backend software with a focus on practical architecture
 
 ---
 
-## 📌 What I Work On
-
-```ts
-const rami = {
-  position: ['Full-Stack Developer', 'DevOps Engineer', 'Software Developer'],
-  strengths: ['React', 'React Native', 'Node.js', 'Linux', 'Docker', 'AI integration'],
-  learning: ['Kubernetes', 'Lua'],
-  interests: ['practical software', 'workflow automation', 'open source', 'Raspberry Pi'],
-};
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNZ01&locale=en&hide_title=true&layout=compact&card_width=360&langs_count=10&theme=aura_dark&hide_border=true" height="160" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=RNZ01&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=5" height="160" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🤝 Connect
-
-- 🌐 Website: [rami.alzayat.de](https://rami.alzayat.de)
-- 💼 LinkedIn: [rami-al-zayat](https://linkedin.com/in/rami-al-zayat-373a7086)
-- 🧠 Stack Overflow: [user 6709790](https://stackoverflow.com/users/6709790)
-- 📧 Email: [contact@alzayat.xyz](mailto:contact@alzayat.xyz)
-
----
-
 <div align="center">
 
 <picture>
